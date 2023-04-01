@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "aws-ec2-practice",
+  "description": "Practice de AWS EC2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonCastaneda/aws-ec2-practice.git"
+  },
+  "author": "Milton Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonCastaneda/aws-ec2-practice/issues"
+  },
+  "homepage": "https://github.com/miltonCastaneda/aws-ec2-practice#readme"
+}
